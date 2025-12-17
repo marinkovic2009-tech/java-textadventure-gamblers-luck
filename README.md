@@ -1,28 +1,25 @@
-# Java Textadventure: Gambler's Luck
+# Java Text Adventure – Gambler's Luck
 
-A console-based text adventure game developed in Java as a group project to practice object-oriented programming (OOP), combat mechanics, and game design.
+A console-based text adventure game developed in Java 20 as a group project. Players navigate through floors of a casino, fight enemies, collect coins, and make strategic choices to survive and reach the final boss.
 
 ## Features
 - Interactive story with branching choices
-- Turn-based combat system
-- Multiple enemy types with unique stats and AI
-- Items, power-ups, and special attacks
+- Turn-based combat system with normal and heavy attacks
+- Multiple enemy types and bosses with unique stats and AI
+- Items, power-ups, and special mechanics
 - Level progression with increasing difficulty
-- Game endings based on player decisions
+- Multiple endings based on player decisions
 
 ## Technologies
-- Java 17 (or your project version)
+- Java SE 20
 - Scanner for user input
-- Git for version control
+- Console output for game display
 
 ## Project Context
-This project was created as a collaborative assignment to strengthen Java programming skills, implement OOP concepts, and design an interactive text-based game. Players navigate through floors, fight enemies, collect items, and make strategic choices to survive and reach the final boss.
-
-## Status
-In Progress / Completed (choose one)
+Created as a collaborative assignment to practice Java programming, object-oriented programming (OOP), and game logic implementation. The project strengthens skills in variables, loops, conditional statements, methods, and user input handling.
 
 ## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/Java-Textadventure.git
+1. Download the project files (ZIP or from GitHub if available).
+2. Open the project in your Java IDE (e.g., IntelliJ IDEA, Eclipse, or NetBeans).
+3. Run the `Textadventure_GamblersLuck` class.
 
